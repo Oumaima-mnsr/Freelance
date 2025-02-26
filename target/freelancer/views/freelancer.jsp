@@ -134,7 +134,7 @@
     </div>
 
     <footer class="text-center">
-        <p class="text-muted mb-0">&copy; Freelance ESSAT. All rights reserved By Salmen.</p>
+        <p class="text-muted mb-0">&copy; Freelance ESSAT. All rights reserved By Oumaima Mansri.</p>
     </footer>
 </body>
 </html>
