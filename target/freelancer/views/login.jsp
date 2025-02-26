@@ -50,7 +50,7 @@
 
     <footer class="bg-light py-4 text-center">
         <div class="container">
-            <p class="text-muted mb-0">&copy; All rights reserved By Salmen.</p>
+            <p class="text-muted mb-0">&copy; All rights reserved By Oumaima Mansri.</p>
         </div>
     </footer>
 
